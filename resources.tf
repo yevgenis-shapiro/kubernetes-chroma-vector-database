@@ -1,6 +1,4 @@
 
-
-
 data "external" "subnet" {
   program = ["/bin/bash", "-c", "docker network inspect -f '{{json .IPAM.Config}}' kind | jq .[0]"]
   depends_on = [
@@ -25,8 +23,8 @@ module "nginx" {
   depends_on = [module.metallb]
 }
 
-module "automq" {
-  source = "./modules/automq"
+module "chroma" {
+  source = "./modules/chroma"
   depends_on = [module.nginx]
 }
 
