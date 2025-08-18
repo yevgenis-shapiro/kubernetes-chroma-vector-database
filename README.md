@@ -1,4 +1,4 @@
-<img width="2400" height="1040" alt="weaviate-cloud-flowchart-2811f1821d177be0f795b25ede864e18" src="https://github.com/user-attachments/assets/36e0230d-6c4a-4d52-ae5d-d1ed8123b01c" />
+
 
 
 ## Chroma | Kubernetes ☸️
