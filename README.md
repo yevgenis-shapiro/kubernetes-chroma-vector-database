@@ -1,5 +1,4 @@
-
-
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/13bf93b7-ad27-4f78-9af6-214be5492122" />
 
 ## Chroma | Kubernetes ☸️
 ChromaDB (often just called Chroma) is an open-source embedding database designed to store, index, and search high-dimensional vector data efficiently. It’s commonly used in AI/ML applications, particularly for vector search, semantic search, and retrieval-augmented generation (RAG) workflows.
